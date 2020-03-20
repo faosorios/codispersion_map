@@ -11,10 +11,8 @@ To create the Dynamically Loaded (DL) library, unpack the gzip file `hcodisp.map
 
 `R CMD SHLIB -o hcodisp.so *.c`
 
-Next, copy `SSIM.so` file to the working directory (in our case to `/case_study`), and execute the commands in `case_study.R` file (optionally, you can use `reading_TIF.R` to read data from TIF images. 'tif' R package is required).
-
 To use this funtion, start R and enter:
 
-`source("hcodisp.map.R")
- dyn.load("hcodisp.so")
- z <- hcodisp.map(x, y)`
+`source("hcodisp.map.R")`
+`dyn.load("hcodisp.so")`
+`z <- hcodisp.map(x, y)`
