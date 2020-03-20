@@ -2,6 +2,8 @@
 
 The codispersion coefficient quantifies the association between two spatial processes for a particular direction (spatial lag) on the two-dimensional space. The R function **hcodisp.map** provides a graphical tool called codispersion map to visualize the spatial correlation between two sequences measured for regular lattices on the plane.
 
+Supplementary material to **The codispersion map: A graphical tool to visualize the association between two spatial variables.** by Ronny Vallejos, Felipe Osorio and Diego Mancilla (Statistica Neerlandica 69 (3), 298-314. DOI: [10.1111/stan.12060](https://doi.org/10.1111/stan.12060))
+
 Authors: Diego Mancilla and Felipe Osorio
 
 Maintainer: Felipe Osorio, Email: felipe.osorios@usm.cl
