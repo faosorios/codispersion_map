@@ -9,7 +9,9 @@ Maintainer: Felipe Osorio, Email: felipe.osorios@usm.cl
 ### Instructions: 
 To create the Dynamically Loaded (DL) library, unpack the gzip file `hcodisp.map.tar.gz`, next using the console prompt move to the created directory and enter:
 
-`R CMD SHLIB -o hcodisp.so *.c`
+```shell
+R CMD SHLIB -o hcodisp.so *.c
+```
 
 To use this funtion, start R and enter:
 
