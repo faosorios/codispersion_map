@@ -20,3 +20,9 @@ source("hcodisp.map.R")
 dyn.load("hcodisp.so")
 z <- hcodisp.map(x, y)
 ```
+
+### Details:
+License: GPL (>= 3)
+Suggests: [SpatialPack](https://cran.r-project.org/package=SpatialPack)
+Languages:	R, C
+
