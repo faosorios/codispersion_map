@@ -22,9 +22,7 @@ z <- hcodisp.map(x, y)
 ```
 
 ### Details:
-License: GPL (>= 3)
-
-Suggests: [SpatialPack](https://cran.r-project.org/package=SpatialPack)
-
-Languages:	R, C
+* License: GPL (>= 3)
+* Suggests: [SpatialPack](https://cran.r-project.org/package=SpatialPack)
+* Languages:	R, C
 
