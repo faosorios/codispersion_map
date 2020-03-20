@@ -26,3 +26,9 @@ z <- hcodisp.map(x, y)
 * Suggests: [SpatialPack](https://cran.r-project.org/package=SpatialPack)
 * Languages:	R, C
 
+### Related information:
+* [SpatialPack homepage](http://spatialpack.mat.utfsm.cl/)
+* [Task View: Analysis of Spatial Data](http://cran.r-project.org/web/views/Spatial.html)
+
+Partially supported by grants CONICYT 791100007 and UTFSM 12.12.05
+
