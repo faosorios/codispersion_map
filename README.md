@@ -1,8 +1,8 @@
+# Codispersion Map for Rectangular Grids
+
 [![R](https://img.shields.io/badge/Made%20with-R%20under%20development-success)](https://cran.r-project.org/)
 [![heavy](https://img.shields.io/badge/Suggest%20SpatialPack-0.3--8-important)](https://cran.r-project.org/package=SpatialPack)
 [![DOI](https://img.shields.io/badge/DOI-10.1111/stan.12060-blue)](https://doi.org/10.1111/stan.12060)
-
-# Codispersion Map for Rectangular Grids
 
 The codispersion coefficient quantifies the association between two spatial processes for a particular direction (spatial lag) on the two-dimensional space. The R function **hcodisp.map** provides a graphical tool called codispersion map to visualize the spatial correlation between two sequences measured for regular lattices on the plane.
 
