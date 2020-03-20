@@ -15,6 +15,8 @@ R CMD SHLIB -o hcodisp.so *.c
 
 To use this funtion, start R and enter:
 
-`source("hcodisp.map.R")`
-`dyn.load("hcodisp.so")`
-`z <- hcodisp.map(x, y)`
+```shell
+source("hcodisp.map.R")
+dyn.load("hcodisp.so")
+z <- hcodisp.map(x, y)
+```
